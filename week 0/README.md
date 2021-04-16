@@ -12,3 +12,7 @@ Then take the Quiz to answer some Questions related to the program.
 
 ## Task 3
 Clone the same Repository in the Task-2 then convert the Gradle Scripts from Groovy Language to Kotlin then pushing the changes in a branch of your name then make a pull request.
+
+
+## Resources
+* [Task3 - Convert the Gradle Scripts from Groovy to Kotlin](https://docs.gradle.org/current/userguide/migrating_from_groovy_to_kotlin_dsl.html#before_you_start_migrating)
