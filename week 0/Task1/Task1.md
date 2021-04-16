@@ -15,7 +15,8 @@
 - [ ] pie
 
 
-#### Q3. Default language for Gradle in Android studio is:- [ ] Java
+#### Q3. Default language for Gradle in Android studio is:
+- [ ] Java
 - [ ] Kotlin
 - [ ] Groovy
 - [ ] C++
