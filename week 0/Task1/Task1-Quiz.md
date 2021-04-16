@@ -4,30 +4,30 @@
 - [ ] 8
 - [ ] 9
 - [ ] 21
-- [ ] 26
-- [ ] 27
+- [x] 26
+- [x] 27
 - [ ] 30
 
 
 #### Q2. ART start from android:
-- [ ] Kitkat
-- [ ] lolipop
+- [x] Kitkat
+- [x] lolipop
 - [ ] pie
 
 
 #### Q3. Default language for Gradle in Android studio is:
 - [ ] Java
 - [ ] Kotlin
-- [ ] Groovy
+- [x] Groovy
 - [ ] C++
 - [ ] XML
 
 
 #### Q4. What of the following are Android App Component:
 - [ ] Fragment
-- [ ] Broadcast Receiver
-- [ ] Activity
-- [ ] Service
+- [x] Broadcast Receiver
+- [x] Activity
+- [x] Service
 - [ ] Intent
 
 
@@ -36,4 +36,4 @@
 - [ ] Kotlin
 - [ ] Groovy
 - [ ] C++
-- [ ] None
+- [x] None
